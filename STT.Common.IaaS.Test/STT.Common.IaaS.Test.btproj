@@ -80,6 +80,7 @@
     </Schema>
   </ItemGroup>
   <ItemGroup>
+    <None Include="MSI\STT.Common.IaaS.msi" />
     <None Include="STT.Common.IaaS.snk" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
